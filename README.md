@@ -1,2 +1,1 @@
-# apache-groovy-course
-Apache Groovy Course
+Apache Groovy Examples from Dan
