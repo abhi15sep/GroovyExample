@@ -1,0 +1,70 @@
+#Install SDKMAN
+https://sdkman.io/install
+
+#groovysh
+http://groovy-lang.org/groovysh.html
+
+#groovyc
+http://groovy-lang.org/groovyc.html
+
+#Groovy Website
+http://groovy-lang.org/
+
+#groovy official website code
+https://github.com/groovy/groovy-website
+
+#groovy api
+http://groovy-lang.org/api.html
+
+#Groovy JDk
+http://groovy-lang.org/gdk.html
+
+#Default Imports
+http://groovy-lang.org/structure.html#_default_imports
+
+#Java & Groovy Keywords
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
+http://groovy-lang.org/syntax.html#_keywords
+
+#Comment in Groovy
+http://groovy-lang.org/syntax.html#_single_line_comment
+
+#Power Assertion
+http://groovy-lang.org/semantics.html#_power_assertion
+
+#Script Class
+http://groovy-lang.org/structure.html#_script_class
+
+#Class in Groovy
+http://groovy-lang.org/objectorientation.html#_class
+
+#Groovy Control-Structure
+http://groovy-lang.org/semantics.html#_control_structures
+
+#Annotations
+http://groovy-lang.org/objectorientation.html#_annotation
+
+#AST Transformation
+http://docs.groovy-lang.org/next/html/gapi/groovy/transform/package-summary.html
+
+#Dependency managemant with Grape
+http://docs.groovy-lang.org/latest/html/documentation/grape.html
+
+#Apache commons Package
+https://commons.apache.org/proper/commons-lang/javadocs/api-release/org/apache/commons/lang3/text/package-summary.html
+
+#Range API
+http://docs.groovy-lang.org/latest/html/gapi/groovy/lang/Range.html
+
+#List
+http://docs.groovy-lang.org/latest/html/groovy-jdk/java/util/List.html
+
+#Map
+http://docs.groovy-lang.org/latest/html/groovy-jdk/java/util/Map.html
+
+#Closures
+http://groovy-lang.org/closures.html
+http://docs.groovy-lang.org/latest/html/api/groovy/lang/Closure.html
+
+#Groovy code: use test-case to learn syntax
+https://github.com/apache/groovy
