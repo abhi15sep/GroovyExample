@@ -68,3 +68,9 @@ http://docs.groovy-lang.org/latest/html/api/groovy/lang/Closure.html
 
 #Groovy code: use test-case to learn syntax
 https://github.com/apache/groovy
+
+#Rest API
+http://www.icndb.com/api/
+
+#Rest Client Builder
+https://github.com/jgritman/httpbuilder/
